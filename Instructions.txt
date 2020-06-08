@@ -1,4 +1,0 @@
-To play the game, Blender must be installed; it can be downloaded from http://www.blender.org/download/
-To start the game, open "Space shooter game.blend" with Blender and press P while the mouse is within the window.
-The spaceship is controlled with the arrow keys and the left mouse button can be clicked or held to shoot.
-The game ends when the player has no health remaining or when the player presses the escape key.
