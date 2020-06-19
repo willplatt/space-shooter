@@ -11,7 +11,7 @@ With your mouse inside the window, press P and the game will start.
 
 I recommend you use Blender [version 2.74](https://download.blender.org/release/Blender2.74/).
 The game works with similar versions, but in some versions the lighting is brighter than intended and in more recent versions the game won’t play at all.
-The image above and the video in the downloads section shows what playing the game is supposed to look like.
+The image above and [this video](https://youtu.be/K2W10eKlG0Y) show what playing the game is supposed to look like.
 
 ## Gameplay
 
