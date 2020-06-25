@@ -29,10 +29,14 @@ Try to get as many points as you can before game over.
 
 ## Background
 
-This game was made for the purpose of an [Extended Project Qualification (EPQ)](https://en.wikipedia.org/wiki/Extended_Project_Qualification) in 2015.
+This game was made for the purpose of an [Extended Project Qualification (EPQ)](https://en.wikipedia.org/wiki/Extended_Project_Qualification) in 2014-2015.
 If you’re interested in the game’s design and development process then take a look at the [PowerPoint presentation with notes](Presentation.pptx) and the [short report](Report.pdf).
 
 The game has not been altered since 2015 but has now been released online in 2020.
+But feel free to contribute or request features and bug fixes if you feel like it.
+
+* GitHub: <https://github.com/willplatt/space-shooter/>
+* Bitbucket: <https://bitbucket.org/WillPlatt/space-shooter/>
 
 ## License
 
